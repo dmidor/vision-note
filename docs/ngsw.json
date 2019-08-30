@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1567190950128,
+  "timestamp": 1567192381844,
   "index": "https://dmidor.github.io/vision-note/index.html",
   "assetGroups": [
     {
@@ -52,7 +52,7 @@
     "https://dmidor.github.io/vision-note/index.html": "a5fa9040ec754fe9df604bb4f21a45dce9dc4b68",
     "https://dmidor.github.io/vision-note/main-es2015.eda7006fef8acfbdafd1.js": "3f6bc848e0895c7c1981ef6e7528be6f460c78d6",
     "https://dmidor.github.io/vision-note/main-es5.528b2a3e4c5d7dbb5a5a.js": "c8c480cb921add4e01991b01d0bdef26aca65a37",
-    "https://dmidor.github.io/vision-note/manifest.webmanifest": "ed3a63074de4ddc7f2b025916f5dd988257b4545",
+    "https://dmidor.github.io/vision-note/manifest.webmanifest": "502e8d66dae6a8d4fb6b65bdb17e231dcf889cf2",
     "https://dmidor.github.io/vision-note/polyfills-es2015.9aaba84b721d907ae919.js": "162d5ef9537363012a89027ca6670bf2b1f5204b",
     "https://dmidor.github.io/vision-note/polyfills-es5.fa99a614a4ad800768a0.js": "b22445e735723bf03f0bb8f71d19f0f161852733",
     "https://dmidor.github.io/vision-note/runtime-es2015.27965c48d77c449cb93c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
