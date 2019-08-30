@@ -7,7 +7,9 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "build:page": "ng build --prod --base-href \"https://dmidor.github.io/vision-note/index.html\"",
+    "build:page:doc": "ng build --prod --output-path docs --base-href \"https://dmidor.github.io/vision-note/index.html\""
   },
   "private": true,
   "dependencies": {
