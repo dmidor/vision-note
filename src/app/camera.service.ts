@@ -9,9 +9,7 @@ export class CameraService {
   constructor(private ngOpenCVService: NgOpenCVService) {
   }
 
-
   public capture(): void {
-
   }
 
 }

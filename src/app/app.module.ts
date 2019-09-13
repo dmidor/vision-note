@@ -7,6 +7,7 @@ import { AppComponent } from './app.component';
 import { NgOpenCVModule } from 'ng-open-cv';
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
+import { WebcamModule } from 'ngx-webcam';
 
 
 // const openCVConfig = {
@@ -25,6 +26,7 @@ import { environment } from '../environments/environment';
     AppRoutingModule,
     // NgOpenCVModule.forRoot(openCVConfig),
     ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production }),
+    WebcamModule
   ],
   providers: [],
   bootstrap: [AppComponent]
